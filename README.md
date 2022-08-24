@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 
 Api para subir archivos a S3 de AWS realizado con Node.js y Multer
 
